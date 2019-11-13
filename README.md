@@ -1,2 +1,2 @@
-# todo_app
+# Test
 Django app
